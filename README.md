@@ -2,4 +2,4 @@
 ## Membuat Program Menghitung Luas dan Keliling Lingkaran
 
 ### Berikut Bentuk dari Flowchartnya
-[Gambar](ss/ss.png)
+![Gambar](ss/ss.png)
